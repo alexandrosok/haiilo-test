@@ -1,0 +1,18 @@
+.row {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background:white;
+}
+
+.filter-item {
+  font-family: 'Roboto', sans-serif;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #efeeee;
+  border-right: 1px solid #efeeee;
+}
